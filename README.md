@@ -1,4 +1,4 @@
-#Practica 1 de master en espring boot
+#Practica 1 de master en Spring Boot
 
 *Captura de pantalla de instalación de java:
 Descargar java version 21 y descomprimir en la ruta de su preferencia. Luego crear una variable de entorno en el sistema y colocar la ruta de java como se muestra en la captura.
